@@ -28,7 +28,7 @@ public class Main {
     }
 
     public static void main (String[] args) {
-        // keep this function call here
+        
         Scanner s = new Scanner(System.in);
         System.out.println("Please enter street address");
         String address = s.nextLine();
